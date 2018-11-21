@@ -1,0 +1,9 @@
+1. https://www.kaggle.com/pc1996/fine-tuning-resnet34-on-ship-detection/edit
+2. https://www.kaggle.com/pc1996/kernels/notebooks/new?forkParentScriptVersionId=5632332
+3. https://www.kaggle.com/pc1996/kernels/notebooks/new?forkParentScriptVersionId=5626380
+4. https://www.kaggle.com/pc1996/kernels/notebooks/new?forkParentScriptVersionId=6125221
+
+
+simple baseline - https://www.kaggle.com/pc1996/kernels/notebooks/new?forkParentScriptVersionId=5348767, https://www.kaggle.com/kmader/from-trained-u-net-to-submission-part-2
+
+ship detection simple - https://www.kaggle.com/pc1996/kernels/notebooks/new?forkParentScriptVersionId=5528292

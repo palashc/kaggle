@@ -1,0 +1,3 @@
+Vocab = 20K
+Embedding-20 + MaxPooling  = 0.98074
+Embedding-100 + MaxPooling + 20FC = 0.98121
